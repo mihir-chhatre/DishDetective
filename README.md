@@ -1,8 +1,6 @@
 # Analyzing NYC Restaurant Inspections: Patterns and Predictions
 
-### Why?
-
-Open portal that can foster collaboration between inspection officers, restaurant owners, regulators to improve diner’s
+An open portal that can foster collaboration between inspection officers, restaurant owners, regulators to improve diner’s
 experience and ultimately the protect public health.
 
 ### Objectives
